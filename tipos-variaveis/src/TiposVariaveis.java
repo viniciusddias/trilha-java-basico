@@ -1,5 +1,22 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        // Estudar 
+        // Tipos primitivos
+        // As classes String que representa texto dentro de nassas aplicações
+
+        double salarioMinimo = 2500;
+
+        short numeroCorto = 1;
+        int numeroNormal = numeroCorto;
+        short numeroCorto2 = (short) numeroNormal;
+
+
+        int numero = 5;
+
+        numero = 10;
+
+        System.out.print(numero);
+
+        final double VALOR_DE_PI = 3.14;
     }
 }
