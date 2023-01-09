@@ -18,6 +18,9 @@ public class TiposVariaveis {
 
         System.out.print(numero);
 
+
+        // Essa declaração de variável não pode ter seu valor
+        // auterado.
         final double VALOR_DE_PI = 3.14;
     }
 }
