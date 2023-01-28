@@ -13,7 +13,6 @@ Repositório para exercícios do curdo de java básico pela DIO
 - [ ] Collections Java
 
 ## :books: :date: Roadmap de estudos para os proximos 12 meses
-- [ ] Formação java
 - [ ] Formação JavaScript
 - [ ] Formação Angular
 - [ ] Formação Scrum
